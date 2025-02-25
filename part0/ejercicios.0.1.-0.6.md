@@ -1,5 +1,5 @@
-// Ejercicios 0.1.-0.6.
-sequenceDiagram
+ # Aqui termine el primer ejercicio 0.1 al 0.6 
+    sequenceDiagram
     participant User
     participant Browser
     participant Server
